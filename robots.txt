@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://slowhigh.github.io/sitemap.xml
