@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Backend Developer Roadmap
-subtitle: 
+subtitle: 백엔드 개발자로써 성장하기 위해 나의 길잡이를 찾았다.
 excerpt_image: https://cdn.jsdelivr.net/gh/slowhigh/slowhigh.github.io@main/assets/images/roadmap.png
 categories: Experience
 tags: [Roadmap, Backend, Study, Developer]
