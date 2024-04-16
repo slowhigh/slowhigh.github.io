@@ -4,7 +4,7 @@ title: 프로그래밍 용어 - 3
 subtitle: 공부하면서 개념을 명확하게 모르는 용어를 정리해 보자.
 excerpt_image: https://cdn.jsdelivr.net/gh/slowhigh/slowhigh.github.io@main/assets/images/programming-terminology.jpg
 categories: Terminology
-tags: []
+tags: [cross-cutting concern, Camel case, snake_case, SRP]
 ---
 
 ![banner](https://cdn.jsdelivr.net/gh/slowhigh/slowhigh.github.io@main/assets/images/programming-terminology.jpg)
