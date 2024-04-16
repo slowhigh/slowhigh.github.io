@@ -3,7 +3,7 @@ layout: post
 title: Multi-Threaded Stateless
 subtitle: Multi-Threaded Stateless 프로그래밍은 현대 소프트웨어 개발에서 중요한 개념 중 하나입니다.
 excerpt_image: https://berb.github.io/diploma-thesis/original/resources/mt-server.svg
-categories: Terminology
+categories: Design Pattern
 tags: [Multi-Threaded Stateless]
 ---
 
