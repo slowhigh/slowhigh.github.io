@@ -2,12 +2,12 @@
 layout: post
 title: Multi-Threaded Stateless
 subtitle: Multi-Threaded Stateless 프로그래밍은 현대 소프트웨어 개발에서 중요한 개념 중 하나입니다.
-excerpt_image: https://cdn.jsdelivr.net/gh/slowhigh/slowhigh.github.io@main/assets/images/multi-threaded-stateless.jpg
+excerpt_image: https://cdn.jsdelivr.net/gh/slowhigh/slowhigh.github.io@main/assets/images/multi-threaded-stateless.png
 categories: Design Pattern
 tags: [Multi-Threaded Stateless]
 ---
 
-![banner](https://cdn.jsdelivr.net/gh/slowhigh/slowhigh.github.io@main/assets/images/multi-threaded-stateless.jpg)
+![banner](https://cdn.jsdelivr.net/gh/slowhigh/slowhigh.github.io@main/assets/images/multi-threaded-stateless.png)
 
 Multi-Threaded Stateless 프로그래밍은 각 스레드가 서로 독립적이며 상태를 공유하지 않는 방식으로 소프트웨어를 설계하는 개념입니다. 각 스레드는 필요한 데이터를 직접 소유하고 있으며, 이는 병렬성을 활용하면서도 상태 관리에 따른 복잡성을 줄일 수 있습니다.
 

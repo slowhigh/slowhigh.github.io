@@ -2,12 +2,12 @@
 layout: post
 title: Multi-tenancy Architecture
 subtitle: 아키텍처를 알아야 구조가 보인다.
-excerpt_image: https://cdn.jsdelivr.net/gh/slowhigh/slowhigh.github.io@main/assets/images/multitenancy.jpg
+excerpt_image: https://cdn.jsdelivr.net/gh/slowhigh/slowhigh.github.io@main/assets/images/multitenancy.png
 categories: Architecture
 tags: [Multitenancy, multi-tenant]
 ---
 
-![banner](https://cdn.jsdelivr.net/gh/slowhigh/slowhigh.github.io@main/assets/images/multitenancy.jpg)
+![banner](https://cdn.jsdelivr.net/gh/slowhigh/slowhigh.github.io@main/assets/images/multitenancy.png)
 
 `Multi-tenancy Architecture`하나의 소프트웨어 시스템이 여러 개의 `Tenant`(사용자 그룹 또는 고객)를 지원하는 방법론입니다. 각 `Tenant`는 독립적으로 자신의 데이터, 설정, 사용자 인터페이스 등을 가질 수 있지만, 하나의 소프트웨어 인스턴스를 공유하여 리소스를 효율적으로 활용할 수 있습니다. 이 방법론은 3가지 모델로 나뉠 수 있습니다.
 
