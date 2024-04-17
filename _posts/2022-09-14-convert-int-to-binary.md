@@ -2,12 +2,12 @@
 layout: post
 title: n값을 이진법으로 변환하기
 subtitle: 코드는 사소하나 속도는 심각하다.
-excerpt_image: https://camo.githubusercontent.com/89e3fc81036629031e787c8d09cb08bb50993b1b4c6f6ecd72e4a7c41f398c5b/68747470733a2f2f676f6c616e672e6f72672f646f632f676f706865722f6669766579656172732e6a7067
+excerpt_image: https://cdn.jsdelivr.net/gh/slowhigh/slowhigh.github.io@main/assets/images/golang.png
 categories: Code
 tags: [Go, golang]
 ---
 
-![banner](https://camo.githubusercontent.com/89e3fc81036629031e787c8d09cb08bb50993b1b4c6f6ecd72e4a7c41f398c5b/68747470733a2f2f676f6c616e672e6f72672f646f632f676f706865722f6669766579656172732e6a7067)
+![banner](https://cdn.jsdelivr.net/gh/slowhigh/slowhigh.github.io@main/assets/images/golang.png)
 
 `strconv.FormatInt(int64(n), 2)`와 `fmt.Sprintf("%b", n)`은 모두 정수를 2진수 문자열로 변환하는 함수이지만, 성능 측면에서 몇 가지 주요 차이점이 있습니다.
 
